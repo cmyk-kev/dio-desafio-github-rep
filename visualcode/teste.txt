@@ -1,0 +1,9 @@
+Testes
+
+Criar um Teste
+* Clicar no método ocm butão direito e em criar teste de unidades
+
+Padrão AAA:
+* Arrange(Organizar)- inicializa os objeto e define os valores dos dados;
+* Act(Agir) invoca o método a ser testado;
+* Assert(Declarar) verifica se ação se comporta como esperado;

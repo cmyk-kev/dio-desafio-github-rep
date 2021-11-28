@@ -1,0 +1,14 @@
+ 1. Criar um projetos
+ 2. Escolher templetem
+ 3. Selecionar nome do projeto e solução do
+ 
+ Depuração 
+
+ * breakpoint clicar na linha + F9
+ * F10 rodar linha por linha
+ * F5 ir par o final do codigo
+
+Inspecionar
+
+* QuickWatch em Depurar
+* Passar mouse sobre variável
